@@ -11,9 +11,15 @@ This repository contains a recruitment task that consisted of creating a front-e
 * Consistent code standards and quality
 * Friendly, straight-forward UI that responds to user interactions instantly
 * Works on mobile devices - the app is responsive
+* The project was built on top of [create-react-app](https://github.com/facebook/create-react-app). Installation, development process and building ready bundles is simple and doesn't require much effort. 
 
-### Usage
-The project was built on top of [create-react-app](https://github.com/facebook/create-react-app). Installation, development process and building ready bundles is simple and doesn't require much effort. Commands you can use with the project:
+### Installation and usage
+To run the project on your local machine use: 
+* ```git clone https://github.com/zie8m/op-e-recruitment.git```
+* ```cd op-e-recruitment```
+* ```npm install``` - make sure you have Node and NPM installed on your local machine beforehand
+
+Commands you can use with the project:
 * ```npm start``` - run development server with hot reloading
 * ```npm test``` - run unit tests
 * ```npm run build``` - create a production-ready build
